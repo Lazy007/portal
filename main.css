@@ -2,8 +2,6 @@ body{
      background-color: #000;
 }
 .centre{
-     display: flex;
-     height: 64px;
      color: #fff;
      font-size: 64px;
      font-family: 'Raleway', sans-serif;
