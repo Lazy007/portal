@@ -2,8 +2,8 @@ body{
      background-color: #000;
 }
 h1{
+     font-family: 'Raleway', sans-serif;
      text-align: centre;
-     font-family: 'Exo', sans-serif;
      font-size: 64px;
      color: #ffffff;
 }
