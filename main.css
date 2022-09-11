@@ -1,8 +1,10 @@
+body{
+     background-color: #000;
+}
 .centre{
      display: flex;
      height: 64px;
      color: #fff;
      font-size: 64px;
-     background-color: #000;
      font-family: 'Raleway', sans-serif;
 }
