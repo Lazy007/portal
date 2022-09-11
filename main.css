@@ -3,8 +3,8 @@ body{
 }
 .flex-container{
      display: flex;
-     height: 82px;
+     height: 64px;
      color: #fff;
-     font-size: 82px;
+     font-size: 64px;
      font-family: 'Raleway', sans-serif;
 }
