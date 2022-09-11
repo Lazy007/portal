@@ -5,8 +5,5 @@ body{
      color: #fff;
      font-size: 64px;
      font-family: 'Raleway', sans-serif;
-     text-align: centre;
-     width: 500px;
-     margin: 0 auto;
-     display: block;
+     text-align: center;
 }
