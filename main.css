@@ -5,4 +5,7 @@ body{
      color: #fff;
      font-size: 64px;
      font-family: 'Raleway', sans-serif;
+     text-align: centre;
+     margin: 0px auto;
+     display: block;
 }
