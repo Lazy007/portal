@@ -1,9 +1,10 @@
 body{
      background-color: #000;
 }
-p{
+.flex-container{
+     display: flex;
+     height: 200px;
+     color: #fff;
+     font-size: 1.2rem;
      font-family: 'Raleway', sans-serif;
-     text-align: centre;
-     font-size: 64px;
-     color: #ffffff;
 }
