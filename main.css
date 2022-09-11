@@ -2,11 +2,11 @@ body{
      background-color: #000;
 }
 p{
-     color: #fff;
-     margin: auto;
-     height: 200px
      display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 200px;
+     color: #fff;
      font-size: 1.2rem;
      font-family: 'Raleway', sans-serif;
-     text-align: center;
 }
