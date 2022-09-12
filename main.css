@@ -1,5 +1,7 @@
 body{
      background-color: #000;
+img{
+     color: #fff;
 }
 p{
      display: flex;
