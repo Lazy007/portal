@@ -12,8 +12,8 @@ body{
 }
 .icon{
      position: fixed;
-     top: 20px;
+     top: 16px;
      right: 24px;
-     font-size: 54px;
+     font-size: 18rem;
      color: #fff;
 }
