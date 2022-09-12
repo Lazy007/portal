@@ -12,7 +12,5 @@ body{
 }
 .icon{
      color: #fff;
-     left: 24px;
-     top: -48px;
-     font-size: 48px;
+     font-size: 5rem;
 }
