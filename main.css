@@ -3,7 +3,7 @@ body{
 .icon{
      color: #fff;
 }
-p{
+.text{
      display: flex;
      justify-content: center;
      align-items: center;
