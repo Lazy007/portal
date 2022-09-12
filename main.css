@@ -13,7 +13,7 @@ body{
 .icon{
      position: fixed;
      top: 5px;
-     right: 5px;
+     right: -5px;
      font-size: 5rem;
      color: #fff;
 }
