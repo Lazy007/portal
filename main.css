@@ -9,13 +9,12 @@
      font-family: 'Raleway', sans-serif;
 }
 .dark{
-     background-color: #000;
-     color: #fff;
      display: flex;
      justify-content: center;
      align-items: center;
      height: 1440px;
      font-size: 3.8rem;
+     color: #fff;
      font-family: 'Raleway', sans-serif;
 }
 .icon{
