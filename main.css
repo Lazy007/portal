@@ -1,12 +1,16 @@
-.dark_mode{
-     background-color: #000;
-     color: #fff;
-}
-.white_mode{
+.light{
      background-color: #fff;
      color: #000;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 1440px;
+     font-size: 3.8rem;
+     font-family: 'Raleway', sans-serif;
 }
-.text{
+.dark{
+     background-color: #000;
+     color: #fff;
      display: flex;
      justify-content: center;
      align-items: center;
